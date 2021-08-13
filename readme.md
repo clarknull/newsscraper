@@ -3,7 +3,7 @@
 This project demonstrate how easy it is to build a simple news web scraper using python and newspaper3k library.  
 
 ### Motivation Behind This
-I was working on a project that needed to keep users up-to date with specific news update. As a python developer, scraping was the only option. But as a lazy person, the work involved was daunting. After some 30min of research, i came across [newspaper3k](https://newspaper.readthedocs.io/en/latest/user_guide/quickstart.html#performing-nlp-on-an-article) and my problem was solved. I've decided to share this hoping to motivate some hard working programmers. The newspaper3k library also has some NLP features which can be used to further filter out some articles. 
+I was working on a project that needed to keep users up-to date with specific news information. As a python developer, scraping was the only option. But as a lazy person, the work involved was daunting. After some 30min of research, i came across [newspaper3k](https://newspaper.readthedocs.io/en/latest/user_guide/quickstart.html#performing-nlp-on-an-article) and my problem was solved. I've decided to share this hoping to motivate some hard working programmers. The newspaper3k library also has some NLP features which can be used to further filter out some articles. 
 
 ## Dependencies
 
